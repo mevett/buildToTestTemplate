@@ -1,4 +1,4 @@
-package introToJUnitLab;
+package buildToTestLab;
 
 import java.util.Scanner;
 
